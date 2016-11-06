@@ -1,0 +1,15 @@
+{
+  "name": "win32.showlockscreen",
+  "version": "0.0.1",
+  "description": "Lock the computer and show login screen.",
+  "main": "index.js",
+  "keywords": [
+    "lock",
+    "windows",
+    "screen",
+    "showlockscreen",
+    "lockscreen"
+  ],
+  "author": "Jochem Stoel (jochemstoel.github.io)",
+  "license": "ISC"
+}
